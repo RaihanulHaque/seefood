@@ -1,0 +1,6 @@
+Burger
+Donut
+Fries
+Hot Dog
+Pizza
+Sandwich
